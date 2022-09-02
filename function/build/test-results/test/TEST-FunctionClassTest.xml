@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FunctionClassTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-02T06:33:27" hostname="HOME-PC" time="0.071">
+  <properties/>
+  <testcase name="testDiv_nullArgument_throwsException()" classname="FunctionClassTest" time="0.019"/>
+  <testcase name="testSquare_negNum()" classname="FunctionClassTest" time="0.001"/>
+  <testcase name="testDiv_noException()" classname="FunctionClassTest" time="0.001"/>
+  <testcase name="[1] 2, 2" classname="FunctionClassTest" time="0.024"/>
+  <testcase name="[2] 5, 120" classname="FunctionClassTest" time="0.001"/>
+  <system-out><![CDATA[testDiv_nullArgument_throwsException
+testSquare_negNum
+testDiv_noException
+testWithFactoryMethodWithArguments 2,  2
+testWithFactoryMethodWithArguments 5,  120
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

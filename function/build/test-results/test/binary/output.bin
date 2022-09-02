@@ -1,0 +1,5 @@
+&testDiv_nullArgument_throwsException
+testSquare_negNum
+testDiv_noException
+*testWithFactoryMethodWithArguments 2,  2
+,testWithFactoryMethodWithArguments 5,  120
